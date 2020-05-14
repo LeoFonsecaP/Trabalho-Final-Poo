@@ -1,0 +1,69 @@
+Proposta inicial projeto final - POO
+
+Disciplina: SSC0103 - Programção Orientada a Objetos
+ProfessorÇ Dr. Márcio Delamaro
+Alunos PAE: Lucas Lagôa e Misael Jr
+
+Grupo 
+
+Aluno 1: César Henrique de Araujo Guibo
+Aluno 2: Filipe Augusto Oliveira da Costa
+Aluno 3: Guilherme Makarovsky Galvão
+Aluno 4: Leonardo Fonseca Pinheiro
+
+1. Aplicacao
+    Área: Ambiente escolar
+    Projeto: Implementação de um programa que gera recomendações de conteúdo
+de ensino médio/vestibulandos para auxiliar o estudo dos alunos que estão tendo
+dificuldade de acesso a esses durante a pandemia do COVID-19.
+
+2. Descrição e proposta
+    O programa deve possuir uma interface gráfica e ser capaz de gerar uma 
+lista de recomendações de conteúdos para o aluno baseado em seu atual estágio
+educacional(ano do ensino médio/cursinho) e seu foco.
+    Pensamos em desenvolver essa solução devido à grande quantidade de
+estudantes gravemente afetados pela pandemia e que estão com dificuldades para
+poder seguir com seus estudos em meio à situação. 
+    Assim, achamos que seria de grande ajuda, uma plataforma que auxiliasse tais
+pessoas nesse dificil momento.
+
+3. Objetivo principal
+    Esse trabalho tem como seu maior objetivo, a implementação de algoritmos,
+estruturas e heurísticas de programação orientada a objetos vistos na disciplina
+SSC0103. Com esse projeto, também desejamos ter uma experiência prática de
+como é produzir um programa que pode servir como um produto final, aproximando
+o curso da realidade do mercado.
+    Ainda, é interessante observar a possibilidade de aprender novas
+tecnologias muitas vezes pouco abordadas no curso de ciências de computação ou,
+pelo menos, nessa etapa inicial do curso. Conhecimentos acerca de tópicos como
+redes, segurança, interface gráfica podem ser muito úteis no futuro e é importante
+salientar a relevância de conhecê-los, mesmo que de maneira relativamente
+superficial.
+    Além disso, é preciso acrescentar que a necessidade de se trabalhar em
+grupo é intrínseca ao profissional da computação, seja ele atuando no mercado de
+trabalho ou na academia. Sendo assim, o projeto gera a oportunidade de aprender
+não somente a dinâmica e trabalho em equipe, mas também ferramentas
+necessárias para isso, como um sistema de controle de versão. Sendo escolhido o
+git para essa aplicação.
+
+4. Objetivo específico
+    Aprender a usar ferramentas de controle de versão, como o git, interfaces
+gráficas, praticar o uso do paradigma de programação orientada.
+
+5. Funcionalidades a serem desenvolvidas
+    Uma interface que permita ao usuário fornecer dados acerca de sua situação
+escolar e receber recomendações. gostariamos de implementar as seguintes 
+funcionalidades:
+
+        * Gerar recomendações de conteúdo
+        * Gerar uma rotina de estudos
+        * Informações sobre o objetivo do usuário
+        * Ver calendário de vestibulares
+        * Realizar simulados de teste de multipla escolha
+
+    Além disso gostariamos de intgrar o nosso programa com um site e adicionar
+funcionalidades como compartilhamento de resumos, um lugar onde se faz
+perguntas se recebe as respostas. Recomendações de livros e vídeo-aulas,
+entre outras.
+
+6. Protótipos
